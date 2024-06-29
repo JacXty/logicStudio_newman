@@ -1,0 +1,11 @@
+# Archivos específicos de macOS
+.DS_Store
+
+## General
+node_modules/
+
+## Archivos report  newman
+newman/
+
+## Archivos Nodejs
+package-lock.json

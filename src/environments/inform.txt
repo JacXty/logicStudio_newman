@@ -1,0 +1,9 @@
+Informe de Resultados
+Register_User 
+Correctamente Registrado.
+
+Login Succesfull
+Ingreso de Uusario Correctamente
+Observacion :  Al ingresar esa misma direccion en la pagina retorna un error
+
+Logout Succesfull Correctamente
